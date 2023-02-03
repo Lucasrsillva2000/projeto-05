@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto 05 é a criação de uma Land-page básica para aplicar o CSS Grid e outras responsividades.
 
-- [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-05)
+- [Visite o projeto online](https://lucasrsillva2000.github.io/projeto-05)
 
 ## 🔖 Layout
 
